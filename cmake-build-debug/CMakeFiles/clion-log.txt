@@ -1,0 +1,9 @@
+/home/lirisimagine/Téléchargements/CLion-2019.2.5/clion-2019.2.5/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/lirisimagine/CLionProjects/SegmentationPhotometrique
+-- Statut de la bibliotheque OpenCV: 
+-- config: $ {OpenCV_DIR} 
+-- version: $ {OpenCV_VERSION} 
+-- bibliothèques: $ {OpenCV_LIBS} 
+-- chemin d'inclusion: $ {OpenCV_INCLUDE_DIRS} 
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/lirisimagine/CLionProjects/SegmentationPhotometrique/cmake-build-debug
